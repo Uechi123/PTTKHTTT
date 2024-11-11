@@ -397,6 +397,15 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U1ng-IPTGww3_5i2BqIn-1" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ng-IPTGww3_5i2BqIn-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="U1ng-IPTGww3_5i2BqIn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="250" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
