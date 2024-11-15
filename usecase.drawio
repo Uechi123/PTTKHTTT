@@ -437,7 +437,7 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HeelSnoIuAejDlixuYNV-4" value="xem chi tiết" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HeelSnoIuAejDlixuYNV-4" value="&amp;nbsp;xem chi tiêt bài đăng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HeelSnoIuAejDlixuYNV-5" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="a0hTIUQvzzGB4Qp-WPHo-1">
