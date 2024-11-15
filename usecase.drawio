@@ -248,7 +248,7 @@
             <mxPoint x="-15" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-0u2ELMf1P-YtvKKE3--1" value="" style="endArrow=block;dashed=1;html=1;rounded=0;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="l2JES9F-hAtox_VoTa_b-6" edge="1">
+        <mxCell id="b-0u2ELMf1P-YtvKKE3--1" value="" style="endArrow=open;dashed=1;html=1;rounded=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="l2JES9F-hAtox_VoTa_b-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="875" y="280" as="sourcePoint" />
             <mxPoint x="460" y="430" as="targetPoint" />
