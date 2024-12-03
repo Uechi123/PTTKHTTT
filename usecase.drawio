@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ChHWBJP4OW85asw9MTnR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="850" height="760" as="geometry" />
+        </mxCell>
         <mxCell id="l2JES9F-hAtox_VoTa_b-1" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="260" width="30" height="60" as="geometry" />
         </mxCell>
@@ -330,6 +333,12 @@
           <mxGeometry x="-0.3319" y="-1" relative="1" as="geometry">
             <mxPoint x="-39" y="-11" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ChHWBJP4OW85asw9MTnR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ChHWBJP4OW85asw9MTnR-3" value="Hệ thống quản lý nhà trọ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
