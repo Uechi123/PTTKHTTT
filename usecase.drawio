@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l2JES9F-hAtox_VoTa_b-2" value="Người quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="510" width="30" height="60" as="geometry" />
+          <mxGeometry x="1020" y="510" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l2JES9F-hAtox_VoTa_b-3" value="Khách vãng lai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="90" width="30" height="60" as="geometry" />
@@ -92,13 +92,13 @@
             <mxPoint x="960" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l2JES9F-hAtox_VoTa_b-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1.017;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="l2JES9F-hAtox_VoTa_b-12" edge="1">
+        <mxCell id="l2JES9F-hAtox_VoTa_b-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="l2JES9F-hAtox_VoTa_b-12" edge="1" target="l2JES9F-hAtox_VoTa_b-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="978" y="497" as="sourcePoint" />
             <mxPoint x="910" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l2JES9F-hAtox_VoTa_b-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="l2JES9F-hAtox_VoTa_b-11" edge="1">
+        <mxCell id="l2JES9F-hAtox_VoTa_b-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="l2JES9F-hAtox_VoTa_b-11" edge="1" source="l2JES9F-hAtox_VoTa_b-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="510" as="sourcePoint" />
             <mxPoint x="970" y="460" as="targetPoint" />
