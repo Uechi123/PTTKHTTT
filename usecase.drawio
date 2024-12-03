@@ -288,22 +288,22 @@
         <mxCell id="HPpDQk6_HdTzT-pxfKcA-1" value="xem thống kê" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="760" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kXOq1no8hSAdgimMVX8w-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HPpDQk6_HdTzT-pxfKcA-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="640" as="sourcePoint" />
-            <mxPoint x="890" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kXOq1no8hSAdgimMVX8w-7" value="duyệt thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="670" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kXOq1no8hSAdgimMVX8w-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kXOq1no8hSAdgimMVX8w-7">
+        <mxCell id="kXOq1no8hSAdgimMVX8w-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="kXOq1no8hSAdgimMVX8w-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="780" as="sourcePoint" />
             <mxPoint x="860" y="730" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kXOq1no8hSAdgimMVX8w-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="l2JES9F-hAtox_VoTa_b-2">
+        <mxCell id="kXOq1no8hSAdgimMVX8w-10" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kXOq1no8hSAdgimMVX8w-8">
+          <mxGeometry x="-0.4979" y="-1" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kXOq1no8hSAdgimMVX8w-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kXOq1no8hSAdgimMVX8w-7" target="l2JES9F-hAtox_VoTa_b-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="690" as="sourcePoint" />
             <mxPoint x="830" y="640" as="targetPoint" />
