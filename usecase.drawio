@@ -288,28 +288,6 @@
         <mxCell id="HPpDQk6_HdTzT-pxfKcA-1" value="xem thống kê" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="700" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HPpDQk6_HdTzT-pxfKcA-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="l2JES9F-hAtox_VoTa_b-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="700" as="sourcePoint" />
-            <mxPoint x="810" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HPpDQk6_HdTzT-pxfKcA-3" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HPpDQk6_HdTzT-pxfKcA-2">
-          <mxGeometry x="-0.396" y="-2" relative="1" as="geometry">
-            <mxPoint x="31" y="-9" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kXOq1no8hSAdgimMVX8w-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="l2JES9F-hAtox_VoTa_b-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="707" y="720" as="sourcePoint" />
-            <mxPoint x="697" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kXOq1no8hSAdgimMVX8w-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kXOq1no8hSAdgimMVX8w-1">
-          <mxGeometry x="-0.396" y="-2" relative="1" as="geometry">
-            <mxPoint x="-39" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
