@@ -315,7 +315,7 @@
             <mxPoint x="810" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPpDQk6_HdTzT-pxfKcA-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HPpDQk6_HdTzT-pxfKcA-2">
+        <mxCell id="HPpDQk6_HdTzT-pxfKcA-3" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HPpDQk6_HdTzT-pxfKcA-2">
           <mxGeometry x="-0.396" y="-2" relative="1" as="geometry">
             <mxPoint x="31" y="-9" as="offset" />
           </mxGeometry>
